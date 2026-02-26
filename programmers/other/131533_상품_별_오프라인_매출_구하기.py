@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131533
 # 작성자: 설무아
-# 작성일: 2026. 02. 26. 12:01:10
+# 작성일: 2026. 02. 26. 16:45:21
 
 SELECT 
     P.PRODUCT_CODE,
